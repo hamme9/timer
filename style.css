@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.timer {
+    width: 30%;
+    margin: 0 auto; 
+    text-align: center;
+    background-color: black;
+    margin-top: 7%;
+}
+
+p {
+    color: orange;
+}
